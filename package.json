@@ -9,10 +9,10 @@
   "author": "Mantas Samaitis",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^3.0.5",
+    "bcrypt": "^3.0.8",
     "body-parser": "^1.18.3",
     "dotenv": "^7.0.0",
-    "ejs": "^2.6.1",
+    "ejs": "^2.7.4",
     "express": "^4.16.4",
     "express-session": "^1.15.6",
     "md5": "^2.2.1",
