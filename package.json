@@ -9,7 +9,7 @@
   "author": "Mantas Samaitis",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^3.0.8",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "dotenv": "^7.0.0",
     "ejs": "^2.7.4",
